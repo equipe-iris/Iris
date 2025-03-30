@@ -28,7 +28,6 @@ Ele tem como objetivo desenvolver uma solução que permita a extração automá
 
 </div>
 
-<div align="center">
   
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)  
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)  
@@ -39,7 +38,6 @@ Ele tem como objetivo desenvolver uma solução que permita a extração automá
 ![Python](https://img.shields.io/badge/Python%20-%20%233776AB?style=for-the-badge&logo=python&logoColor=white)  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL%20-%20%234169E1?style=for-the-badge&logo=postgresql&logoColor=white)
   
-</div>
 
 ---
 
@@ -49,12 +47,12 @@ Ele tem como objetivo desenvolver uma solução que permita a extração automá
 
 </div>
 
-| :camera: Foto | :bust_in_silhouette: Nome | :briefcase: Função | :octocat: Github | :link: LinkIdn |
-| ------------- | ------------------------- | ----------------- | ---------------- | ------------- |
-| ![Foto](docs/images/fotoMurilo.png) | Murilo Henrique Sangi da Silva Lima | Product Owner | [Github](https://github.com/MuriloLima03) | [LinkedIn](https://www.linkedin.com/in/murilo-sangi-944964313/) |
-| ![Foto](docs/images/fotoMatheus.png) | Matheus Fernando Vieira de Melo | Scrum Master | [Github](https://github.com/Matheusfvm) | [LinkedIn](https://www.linkedin.com/in/matheusfvmelo/) |
-| ![Foto](docs/images/fotoPedro.png) | Pedro Henrique Silva Almeida | Dev Team | [Github](https://github.com/PedroHSdeAlmeida) | [LinkedIn](https://www.linkedin.com/in/pedroalmeidadev/) |
-| ![Foto](docs/images/fotoVinicius.png) | Vinicius de Oliveira Laranjeiro | Dev Team | [Github](https://github.com/vdlaranjeiro) | [LinkedIn](https://www.linkedin.com/in/vinicius-laranjeiro-296b371bb/) |
+| :camera: Foto                         | :bust_in_silhouette: Nome           | :briefcase: Função | :octocat: Github                              | :link: LinkIdn                                                         |
+| ------------------------------------- | ----------------------------------- | ------------------ | --------------------------------------------- | ---------------------------------------------------------------------- |
+| ![Foto](docs/images/fotoMurilo.png)   | Murilo Henrique Sangi da Silva Lima | Product Owner      | [Github](https://github.com/MuriloLima03)     | [LinkedIn](https://www.linkedin.com/in/murilo-sangi-944964313/)        |
+| ![Foto](docs/images/fotoMatheus.png)  | Matheus Fernando Vieira de Melo     | Scrum Master       | [Github](https://github.com/Matheusfvm)       | [LinkedIn](https://www.linkedin.com/in/matheusfvmelo/)                 |
+| ![Foto](docs/images/fotoPedro.png)    | Pedro Henrique Silva Almeida        | Dev Team           | [Github](https://github.com/PedroHSdeAlmeida) | [LinkedIn](https://www.linkedin.com/in/pedroalmeidadev/)               |
+| ![Foto](docs/images/fotoVinicius.png) | Vinicius de Oliveira Laranjeiro     | Dev Team           | [Github](https://github.com/vdlaranjeiro)     | [LinkedIn](https://www.linkedin.com/in/vinicius-laranjeiro-296b371bb/) |
 
 ---
 
@@ -103,9 +101,9 @@ Nessa sprint, nosso foco foi na documentação do sistema, configuração da pip
 
 **Sprint Backlog:**
 
-| USID | Requisito |
-| ---- | --------- |
-| US01 | Dashboards |
+| USID | Requisito    |
+| ---- | ------------ |
+| US01 | Dashboards   |
 | US02 | Pipeline PLN |
 
 **Burndown:**  
@@ -121,18 +119,18 @@ Nessa sprint, nosso foco foi na documentação do sistema, configuração da pip
 
 </div>
 
-| USID | Sprint | Requisito |
-| -----| ------ | --------- |
-| US01 | 01 | Dashboards |
-| US02 | 02 | Extração de informações dos datasets |
-| US03 | 02 | Pré-processamento dos dados |
-| US04 | 02 | Anonimização de dados sensíveis |
-| US05 | 02 | Classificação dos atendimentos |
-| US06 | 02 | CRUD de usuários |
-| US07 | 03 | Sumarização automática dos atendimentos |
-| US08 | 03 | Busca Semântica |
-| US09 | 03 | Conformidade com a LGPD |
-| US10 | 03 | Deploy |
+| USID | Sprint | Requisito                               |
+| ---- | ------ | --------------------------------------- |
+| US01 | 01     | Dashboards                              |
+| US02 | 02     | Extração de informações dos datasets    |
+| US03 | 02     | Pré-processamento dos dados             |
+| US04 | 02     | Anonimização de dados sensíveis         |
+| US05 | 02     | Classificação dos atendimentos          |
+| US06 | 02     | CRUD de usuários                        |
+| US07 | 03     | Sumarização automática dos atendimentos |
+| US08 | 03     | Busca Semântica                         |
+| US09 | 03     | Conformidade com a LGPD                 |
+| US10 | 03     | Deploy                                  |
 
 
 <div align="center">
@@ -141,16 +139,16 @@ Nessa sprint, nosso foco foi na documentação do sistema, configuração da pip
 
 </div>
 
-| USID | Descrição |
-| ---- | --------- |
+| USID | Descrição                                                                                                                                                                              |
+| ---- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | US01 | Como usuário, quero que o sistema gere dashboards com informações das classificações e sumarização dos atendimentos para obter insights rápidos sobre o estado atual dos atendimentos. |
-| US02 | Como usuário, quero que o sistema extraia informações relevantes do dataset de atendimento para serem analisadas pelos modelos de classificação e sumarização. |
-| US03 | Como usuário, quero que o sistema aplique técnicas de pré-processamento nos dados extraídos para aumentar a eficácia dos modelos de classificação e sumarização. |
-| US04 | Como usuário, quero que o sistema anonimize dados dos funcionários para proteger suas informações. |
-| US05 | Como usuário, quero que o sistema classifique o tipo e sentimento dos atendimentos para extrair informações precisas. |
-| US06 | Como administrador, quero cadastrar e gerenciar usuários para garantir o acesso ao sistema. |
-| US07 | Como usuário, quero que o sistema gere um resumo automático das conversas para entender os principais pontos abordados. |
-| US08 | Como usuário, quero buscar informações específicas nas interações passadas para obter dados rapidamente. |
-| US09 | Como usuário, quero que o sistema se adeque à LGPD para garantir a segurança dos dados. |
-| US10 | Como usuário, quero que o sistema esteja hospedado em uma solução de nuvem para evitar indisponibilidade. |
+| US02 | Como usuário, quero que o sistema extraia informações relevantes do dataset de atendimento para serem analisadas pelos modelos de classificação e sumarização.                         |
+| US03 | Como usuário, quero que o sistema aplique técnicas de pré-processamento nos dados extraídos para aumentar a eficácia dos modelos de classificação e sumarização.                       |
+| US04 | Como usuário, quero que o sistema anonimize dados dos funcionários para proteger suas informações.                                                                                     |
+| US05 | Como usuário, quero que o sistema classifique o tipo e sentimento dos atendimentos para extrair informações precisas.                                                                  |
+| US06 | Como administrador, quero cadastrar e gerenciar usuários para garantir o acesso ao sistema.                                                                                            |
+| US07 | Como usuário, quero que o sistema gere um resumo automático das conversas para entender os principais pontos abordados.                                                                |
+| US08 | Como usuário, quero buscar informações específicas nas interações passadas para obter dados rapidamente.                                                                               |
+| US09 | Como usuário, quero que o sistema se adeque à LGPD para garantir a segurança dos dados.                                                                                                |
+| US10 | Como usuário, quero que o sistema esteja hospedado em uma solução de nuvem para evitar indisponibilidade.                                                                              |
 
