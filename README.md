@@ -42,10 +42,10 @@ Ele tem como objetivo desenvolver uma solução que permita a extração automá
 
 | Foto | Nome | Função | Github | LinkIdn |
 | ---- | ---- | ------ | ------ | ------- |
-| ![Foto](docs\images\fotoMurilo.png) | Murilo Henrique Sangi da Silva Lima | Product Owner | [Github](https://github.com/MuriloLima03) | [LinkedIn](https://www.linkedin.com/in/murilo-sangi-944964313/) |
-| ![Foto](docs\images\fotoMatheus.png) | Matheus Fernando Vieira de Melo | Scrum Master | [Github](https://github.com/Matheusfvm) | [LinkedIn](https://www.linkedin.com/in/matheusfvmelo/) |
-| ![Foto](docs\images\fotoPedro.png) | Pedro Henrique Silva Almeida | Dev Team | [Github](https://github.com/PedroHSdeAlmeida) | [LinkedIn](https://www.linkedin.com/in/pedroalmeidadev/) |
-| ![Foto](docs\images\fotoVinicius.png) | Vinicius de Oliveira Laranjeiro| Dev Team | [Github](https://github.com/vdlaranjeiro) | [LinkedIn](https://www.linkedin.com/in/vinicius-laranjeiro-296b371bb/) |
+| ![Foto](./docs/images/fotoMurilo.png) | Murilo Henrique Sangi da Silva Lima | Product Owner | [Github](https://github.com/MuriloLima03) | [LinkedIn](https://www.linkedin.com/in/murilo-sangi-944964313/) |
+| ![Foto](./docs/images/fotoMatheus.png) | Matheus Fernando Vieira de Melo | Scrum Master | [Github](https://github.com/Matheusfvm) | [LinkedIn](https://www.linkedin.com/in/matheusfvmelo/) |
+| ![Foto](./docs/images/fotoPedro.png) | Pedro Henrique Silva Almeida | Dev Team | [Github](https://github.com/PedroHSdeAlmeida) | [LinkedIn](https://www.linkedin.com/in/pedroalmeidadev/) |
+| ![Foto](./docs/images/fotoVinicius.png) | Vinicius de Oliveira Laranjeiro| Dev Team | [Github](https://github.com/vdlaranjeiro) | [LinkedIn](https://www.linkedin.com/in/vinicius-laranjeiro-296b371bb/) |
 
 ---
 
@@ -55,7 +55,7 @@ O projeto seguiu a metodológia ágil e foi divido em 3 sprits, cada sprint tinh
 
 ### Timeline das entregas
 
-![Timeline das entregas](/docs/images/Timeline.png)
+![Timeline das entregas](./docs/images/Timeline.png)
 
 ### Arquitetura
 
