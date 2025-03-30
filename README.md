@@ -100,7 +100,7 @@ Nessa sprint, nosso foco foi na documentação do sistema, configuração da pip
 | US02 | Pipeline PLN |
 
 **Burndown:**  
-![Burndown Sprint 1](./docs/sprint1/Burndown.png)
+![Burndown Sprint 1](./docs/sprint1/burndownSprint1.png)
 
 </details>
 
