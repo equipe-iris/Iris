@@ -66,14 +66,6 @@ O projeto seguiu a metodologia ágil e foi dividido em 3 sprints, cada uma com u
 
 </div>
 
-### Arquitetura
-
-<div align="center">
-
-![Arquitetura do projeto](url-da-imagem-arquitetura)
-
-</div>
-
 ### Pipeline PLN
 
 <div align="center">
