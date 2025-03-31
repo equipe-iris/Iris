@@ -1,0 +1,6 @@
+[submodule "Iris-Front-End"]
+	path = Iris-Front-End
+	url = https://github.com/equipe-iris/Iris-Front-End
+[submodule "Iris-Pos-Processamento"]
+	path = Iris-Pos-Processamento
+	url = https://github.com/equipe-iris/Iris-Pos-Processamento
