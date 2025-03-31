@@ -78,7 +78,7 @@ O projeto seguiu a metodologia ágil e foi dividido em 3 sprints, cada uma com u
 
 <div align="center">
 
-![Pipeline PLN](url-da-imagem-pipeline)
+![Pipeline PLN](./docs/images/pipeline-pln.png)
 
 </div>
 
