@@ -116,7 +116,7 @@ Nessa sprint, nosso foco foi na documentação do sistema, configuração da pip
   <br>
 
 **Objetivo da Sprint:**  
-Nessa sprint, dividimos nosso foco em duas frentes Classificação dos atendimentos e Gerenciamento dos usuários, configuração da pipeline de PLN e construção dos dashboards para demonstrar os resultados da análise dos atendimentos.
+Nessa sprint, dividimos nosso foco em duas frentes Classificação dos atendimentos e Gerenciamento dos usuários.
 
 **Sprint Backlog:**
 
