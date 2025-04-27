@@ -12,17 +12,23 @@ Automação e Extração de Informações em Atendimento Inteligente
 
 <div align="center">
 
+<span id="sobre"></span>
+
 ## :information_source: Sobre
 
 </div>
 
 Esse projeto foi desenvolvido pelos alunos do sexto semestre de 2025 do curso de Desenvolvimento de Software Multiplataforma da FATEC São José dos Campos - Professor Jessen Vidal.
 
-Ele tem como objetivo desenvolver uma solução que permita a extração automática dos principais pontos de conversas, classificação das interações e geração de insights diários sobre os atendimentos, melhorando a eficiência e facilitando a tomada de decisão.
+Este projeto tem como objetivo desenvolver uma solução para analisar automaticamente grandes volumes de interações textuais geradas em sistemas automatizados de atendimento ao cliente, neste caso, CRM (Jira). A nossa solução visa extrair automaticamente os principais pontos discutidos nas conversas, classificar essas interações por sentimento e categoria, sumarizá-las e gerar insights diários que apoiem decisões estratégicas.
+
+Dessa forma, o projeto busca melhorar a eficiência geral dos processos de atendimento, diminuir o esforço manual atualmente necessário na análise de dados, e facilitar a tomada de decisão com base em informações sintetizadas e relevantes obtidas das interações dos clientes.
 
 ---
 
 <div align="center">
+
+<span id="tecnologias"></span>
 
 ## :computer: Tecnologias
 
@@ -35,6 +41,8 @@ Ele tem como objetivo desenvolver uma solução que permita a extração automá
 ---
 
 <div align="center">
+
+<span id="equipe"></span>
 
 ## :busts_in_silhouette: Equipe
 
@@ -50,6 +58,9 @@ Ele tem como objetivo desenvolver uma solução que permita a extração automá
 ---
 
 <div align="center">
+
+<span id="entregas"></span>
+
 
 ## :rocket: Entregas
 
@@ -96,9 +107,36 @@ Nessa sprint, nosso foco foi na documentação do sistema, configuração da pip
 
 </details>
 
+
+### Sprint 2
+
+<details>
+  <summary>Detalhes da Sprint 2</summary>
+
+  <br>
+
+**Objetivo da Sprint:**  
+Nessa sprint, dividimos nosso foco em duas frentes Classificação dos atendimentos e Gerenciamento dos usuários, configuração da pipeline de PLN e construção dos dashboards para demonstrar os resultados da análise dos atendimentos.
+
+**Sprint Backlog:**
+
+| USID | Requisito    |
+| ---- | ------------ |
+| US02 | Extração de informações dos datasets |
+| US03 | Pré-processamento dos dados |
+| US04 | Classificação dos atendimentos |
+| US05 | CRUD de usuários |
+
+**Burndown:**  
+![Burndown Sprint 1](./docs/sprint2/burndownSprint2.png)
+
+</details>
+
 ---
 
 <div align="center">
+
+<span id="backlog"></span>
 
 ## :clipboard: Backlog
 
@@ -109,13 +147,12 @@ Nessa sprint, nosso foco foi na documentação do sistema, configuração da pip
 | US01 | 01     | Dashboards                              |
 | US02 | 02     | Extração de informações dos datasets    |
 | US03 | 02     | Pré-processamento dos dados             |
-| US04 | 02     | Anonimização de dados sensíveis         |
-| US05 | 02     | Classificação dos atendimentos          |
-| US06 | 02     | CRUD de usuários                        |
-| US07 | 03     | Sumarização automática dos atendimentos |
-| US08 | 03     | Busca Semântica                         |
-| US09 | 03     | Conformidade com a LGPD                 |
-| US10 | 03     | Deploy                                  |
+| US04 | 02     | Classificação dos atendimentos          |
+| US05 | 02     | CRUD de usuários                        |
+| US06 | 03     | Sumarização automática dos atendimentos |
+| US07 | 03     | Busca Semântica                         |
+| US08 | 03     | Conformidade com a LGPD                 |
+| US09 | 03     | Deploy                                  |
 
 
 <div align="center">
@@ -129,11 +166,10 @@ Nessa sprint, nosso foco foi na documentação do sistema, configuração da pip
 | US01 | Como usuário, quero que o sistema gere dashboards com informações das classificações e sumarização dos atendimentos para obter insights rápidos sobre o estado atual dos atendimentos. |
 | US02 | Como usuário, quero que o sistema extraia informações relevantes do dataset de atendimento para serem analisadas pelos modelos de classificação e sumarização.                         |
 | US03 | Como usuário, quero que o sistema aplique técnicas de pré-processamento nos dados extraídos para aumentar a eficácia dos modelos de classificação e sumarização.                       |
-| US04 | Como usuário, quero que o sistema anonimize dados dos funcionários para proteger suas informações.                                                                                     |
-| US05 | Como usuário, quero que o sistema classifique o tipo e sentimento dos atendimentos para extrair informações precisas.                                                                  |
-| US06 | Como administrador, quero cadastrar e gerenciar usuários para garantir o acesso ao sistema.                                                                                            |
-| US07 | Como usuário, quero que o sistema gere um resumo automático das conversas para entender os principais pontos abordados.                                                                |
-| US08 | Como usuário, quero buscar informações específicas nas interações passadas para obter dados rapidamente.                                                                               |
-| US09 | Como usuário, quero que o sistema se adeque à LGPD para garantir a segurança dos dados.                                                                                                |
-| US10 | Como usuário, quero que o sistema esteja hospedado em uma solução de nuvem para evitar indisponibilidade.                                                                              |
+| US04 | Como usuário, quero que o sistema classifique o tipo e sentimento dos atendimentos para extrair informações precisas.                                                                  |
+| US05 | Como administrador, quero cadastrar e gerenciar usuários para garantir o acesso ao sistema.                                                                                            |
+| US06 | Como usuário, quero que o sistema gere um resumo automático das conversas para entender os principais pontos abordados.                                                                |
+| US07 | Como usuário, quero buscar informações específicas nas interações passadas para obter dados rapidamente.                                                                               |
+| US08 | Como usuário, quero que o sistema se adeque à LGPD para garantir a segurança dos dados.                                                                                                |
+| US09 | Como usuário, quero que o sistema esteja hospedado em uma solução de nuvem para evitar indisponibilidade.                                                                              |
 
