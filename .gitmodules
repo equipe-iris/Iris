@@ -1,6 +1,20 @@
 [submodule "Iris-Front-End"]
 	path = Iris-Front-End
 	url = https://github.com/equipe-iris/Iris-Front-End
+	branch = main
 [submodule "Iris-Pos-Processamento"]
 	path = Iris-Pos-Processamento
 	url = https://github.com/equipe-iris/Iris-Pos-Processamento
+	branch = main
+[submodule "Iris-Gerenciamento-Usuarios"]
+	path = Iris-Gerenciamento-Usuarios
+	url = https://github.com/equipe-iris/Iris-Gerenciamento-Usuarios.git
+	branch = main
+[submodule "Iris-Pre-Processamento"]
+	path = Iris-Pre-Processamento
+	url = https://github.com/equipe-iris/Iris-Pre-Processamento.git
+	branch = main
+[submodule "Iris-Gateway"]
+	path = Iris-Gateway
+	url = https://github.com/equipe-iris/Iris-Gateway.git
+	branch = main
