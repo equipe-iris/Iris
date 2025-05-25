@@ -132,6 +132,28 @@ Nessa sprint, dividimos nosso foco em duas frentes Classificação dos atendimen
 
 </details>
 
+### Sprint 3
+
+<details>
+  <summary>Detalhes da Sprint 3</summary>
+
+  <br>
+
+**Objetivo da Sprint:**  
+Nessa sprint, nosso foco foi as correções e atualizações dos dashboards e na entrega dos modelos de sumarização e busca semântica.
+
+**Sprint Backlog:**
+
+| USID | Requisito    |
+| ---- | ------------ |
+| US06 | Sumarização  |
+| US07 | Busca semântica |
+
+**Burndown:**  
+![Burndown Sprint 3](./docs/sprint3/burndownSprint3.png)
+
+</details>
+
 ---
 
 <div align="center">
@@ -151,8 +173,6 @@ Nessa sprint, dividimos nosso foco em duas frentes Classificação dos atendimen
 | US05 | 02     | CRUD de usuários                        |
 | US06 | 03     | Sumarização automática dos atendimentos |
 | US07 | 03     | Busca Semântica                         |
-| US08 | 03     | Conformidade com a LGPD                 |
-| US09 | 03     | Deploy                                  |
 
 
 <div align="center">
@@ -169,7 +189,5 @@ Nessa sprint, dividimos nosso foco em duas frentes Classificação dos atendimen
 | US04 | Como usuário, quero que o sistema classifique o tipo e sentimento dos atendimentos para extrair informações precisas.                                                                  |
 | US05 | Como administrador, quero cadastrar e gerenciar usuários para garantir o acesso ao sistema.                                                                                            |
 | US06 | Como usuário, quero que o sistema gere um resumo automático das conversas para entender os principais pontos abordados.                                                                |
-| US07 | Como usuário, quero buscar informações específicas nas interações passadas para obter dados rapidamente.                                                                               |
-| US08 | Como usuário, quero que o sistema se adeque à LGPD para garantir a segurança dos dados.                                                                                                |
-| US09 | Como usuário, quero que o sistema esteja hospedado em uma solução de nuvem para evitar indisponibilidade.                                                                              |
+| US07 | Como usuário, quero buscar informações específicas nas interações passadas para obter dados rapidamente.                                                                               |                       |
 
