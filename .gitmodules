@@ -18,3 +18,6 @@
 	path = Iris-Gateway
 	url = https://github.com/equipe-iris/Iris-Gateway.git
 	branch = main
+[submodule "Iris-Fila"]
+	path = Iris-Fila
+	url = https://github.com/equipe-iris/Iris-Fila.git
